@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">FirebaseAuth</string>
+
+    <string name="stringEmail">Email</string>
+    <string name="stringPassword">Password</string>
+    <string name="stringLogin">Login</string>
+    <string name="stringForgotPassword">Forgot password?</string>
+    <string name="stringFirstTime">First time?</string>
+    <string name="stringSingUp">Sing up</string>
+
+    <string name="stringErrorFillPassword">Error: fill in the \"Password\" field</string>
+    <string name="stringErrorFillEmail">Error: fill in the \"Email\" field</string>
+    <string name="stringErrorIncorrectEmailOrPassword">Error: incorrect email or password</string>
+    <string name="stringErrorIncorrectEmail">Error: incorrect email</string>
+    <string name="stringResetPassword">Reset password</string>
+    <string name="stringUploading">Uploading</string>
+    <string name="stringEmailNotFound">Email not found</string>
+    <string name="stringOk">Ok</string>
+    <string name="stringCheckYourEmail">Check your email</string>
+
+
+    <string name="stringRegistration">Registration</string>
+    <string name="stringAuthorization">Authorization</string>
+    <string name="stringPasswordRecovery">Password recovery</string>
+    <string name="stringMain">Main</string>
+
+    <string name="stringLogout">Logout</string>
 </resources>
